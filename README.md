@@ -1,309 +1,356 @@
-# Alimony Godfrey
+<div align="center">
 
-## ICT Infrastructure & Systems Administrator
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=ALIMONY%20GODFREY&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ICT%20Infrastructure%20%26%20Systems%20Administrator&descAlignY=60&descSize=20" width="100%"/>
 
-**Network | Systems | Cloud Services | Cybersecurity | ICT Operations**
+<a href="https://github.com/Godfrey-Alimony">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&center=true&vCenter=true&width=800&lines=Senior+IT+Infrastructure+%26+Systems+Engineer;Network+%7C+Systems+%7C+Cloud+%7C+Cybersecurity;10%2B+Years+of+Enterprise+IT+Experience;Building+Reliable+%26+Secure+IT+Environments" alt="Typing Animation"/>
+</a>
 
-Experienced ICT Infrastructure and Systems Administrator with **10+ years of experience** managing enterprise ICT environments, including network infrastructure, Windows/Linux servers, Microsoft 365, virtualization, cybersecurity, ICT asset management, and end-user technology services.
+<br/>
 
-I specialize in designing, implementing, securing, troubleshooting, and maintaining reliable ICT infrastructure that supports business operations and user productivity.
+<a href="https://github.com/Godfrey-Alimony">
+<img src="https://img.shields.io/badge/GitHub-Godfrey--Alimony-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="mailto:alimonyg@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
-
-## 🛠️ Core Expertise
-
-- Enterprise IT Infrastructure
-- Windows & Linux Server Administration
-- Active Directory & Group Policy
-- Microsoft 365 & Exchange Online
-- LAN/WAN Infrastructure
-- Routing & Switching
-- VPN & Remote Access
-- VMware Virtualization
-- Network Monitoring
-- Cybersecurity & Endpoint Protection
-- ICT Asset Management
-- IT Service Management
-- Incident & Problem Management
-- Preventive Maintenance
-- Business Continuity & Disaster Recovery
-- Technical Documentation & SOP Development
+</div>
 
 ---
 
-## 💻 Technology Stack
+## 👨‍💻 About Me
 
-### Systems Administration
-- Windows Server 2012–2022
-- Linux – Ubuntu / CentOS
-- Active Directory
-- Group Policy
-- DNS / DHCP
-- File Services
-- Microsoft 365
-- Exchange Online
-- VMware
+I am an **ICT Infrastructure & Systems Administrator** with **10+ years of enterprise IT experience**, specializing in the design, administration, troubleshooting, security and continuous improvement of IT infrastructure.
 
-### Networking
-- LAN / WAN
-- TCP/IP
-- VLANs
-- Routing & Switching
-- VPN
-- Firewalls
-- Wireless Networks
-- Structured Cabling
+My experience covers **enterprise networks, Windows Server, Active Directory, Microsoft 365, virtualization, cybersecurity, endpoint management and IT operations**.
 
-### Monitoring & Security
-- PRTG
-- Nagios
-- SolarWinds
-- Endpoint Protection
-- Vulnerability Management
-- Security Awareness
-- Patch Management
+I focus on building IT environments that are:
 
-### IT Operations
-- IT Asset Management
-- SLA Management
-- Incident Management
-- Preventive Maintenance
-- Vendor Coordination
-- Technical Documentation
-- Business Continuity
+* 🔐 Secure
+* ⚡ Reliable
+* 📈 Scalable
+* 🛠️ Maintainable
+* 📋 Well documented
+* 🎯 Aligned with business requirements
 
 ---
 
-## 💼 Professional Experience
+## 🚀 Professional Highlights
+
+<table>
+<tr>
+<td align="center">
+<h2>10+</h2>
+<b>Years</b><br/>Enterprise IT Experience
+</td>
+
+<td align="center">
+<h2>300+</h2>
+<b>Devices</b><br/>Supported & Managed
+</td>
+
+<td align="center">
+<h2>247+</h2>
+<b>Tickets</b><br/>Handled Weekly
+</td>
+
+<td align="center">
+<h2>68%</h2>
+<b>Faster</b><br/>Incident Resolution
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Core Technology Stack
+
+### 🖥️ Systems & Servers
+
+<img src="https://img.shields.io/badge/Windows%20Server-2012--2022-0078D4?style=for-the-badge&logo=windows"/>
+<img src="https://img.shields.io/badge/Linux-Ubuntu%20%7C%20CentOS-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Active%20Directory-Management-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Group%20Policy-Administration-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DNS-DHCP-4CAF50?style=for-the-badge"/>
+
+### 🌐 Networking
+
+<img src="https://img.shields.io/badge/TCP%2FIP-Networking-1E88E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VLAN-Network%20Segmentation-3949AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VPN-Secure%20Connectivity-5E35B1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Firewalls-Network%20Security-D32F2F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wi--Fi-Wireless%20Networks-0288D1?style=for-the-badge"/>
+
+### ☁️ Cloud & Microsoft 365
+
+<img src="https://img.shields.io/badge/Microsoft%20365-Administration-0078D4?style=for-the-badge&logo=microsoft"/>
+<img src="https://img.shields.io/badge/Exchange%20Online-Email-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Entra%20ID-Identity-5C2D91?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Teams-Collaboration-6264A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SharePoint-Online-0078D4?style=for-the-badge"/>
+
+### 🖥️ Virtualization & Monitoring
+
+<img src="https://img.shields.io/badge/VMware-ESXi%20%7C%20vSphere-607078?style=for-the-badge&logo=vmware"/>
+<img src="https://img.shields.io/badge/PRTG-Network%20Monitoring-00A4EF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nagios-Monitoring-4A148C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SolarWinds-Monitoring-009639?style=for-the-badge"/>
+
+### 🔐 Cybersecurity & Operations
+
+<img src="https://img.shields.io/badge/Endpoint%20Security-Protection-D32F2F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vulnerability-Management-E65100?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Patch-Management-2E7D32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Incident-Management-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SLA-Service%20Management-6A1B9A?style=for-the-badge"/>
+
+---
+
+## 🏢 Professional Experience
 
 ### Kakira Sugar Limited — Jinja, Uganda
 
-**ICT Infrastructure & Systems Administrator**  
-**January 2016 – Present**
-
-Responsible for enterprise ICT infrastructure operations, including networks, servers, cloud services, cybersecurity, end-user technology, ICT assets, and technical support.
+**ICT Infrastructure & Systems Administrator**
+`January 2016 – Present`
 
 Key responsibilities include:
 
-- Managing enterprise IT infrastructure and critical ICT services.
-- Deploying and maintaining Windows and Linux server environments.
-- Administering Active Directory, Group Policy, DNS and DHCP.
-- Managing Microsoft 365 and Exchange Online.
-- Supporting VMware virtualization environments.
-- Designing, maintaining and troubleshooting LAN/WAN infrastructure.
-- Supporting routers, switches, wireless networks and VPN connectivity.
-- Monitoring infrastructure using PRTG, Nagios and SolarWinds.
-- Implementing endpoint security and vulnerability mitigation controls.
-- Supporting backup, disaster recovery and business continuity activities.
-- Coordinating ICT vendors and service providers.
-- Managing ICT assets, configuration records and technical documentation.
-- Preparing ICT operational reports.
-- Providing user training and cybersecurity awareness.
-
-### IT Technician & Network Support
-
-**Kakira Sugar Limited — Jinja, Uganda**  
-**January 2016 – January 2020**
-
-- Installed and maintained computers, servers, printers, UPS systems and networking equipment.
-- Supported switches, routers, wireless access points and structured cabling.
-- Assisted with server maintenance, backups and disaster recovery.
-- Provided technical support for hardware, software and network incidents.
-- Managed ICT asset tagging and inventory records.
-- Supported ICT policies and operational procedures.
+* Enterprise IT infrastructure administration
+* Windows Server and Active Directory administration
+* LAN/WAN and network infrastructure support
+* Microsoft 365 administration
+* VMware virtualization
+* Network monitoring and performance management
+* Cybersecurity and endpoint protection
+* User and access management
+* Hardware and printer support
+* Incident and SLA management
+* Preventive maintenance
+* IT documentation and knowledge management
+* Vendor and technical support coordination
 
 ---
 
-## 🚀 Key Professional Achievements
+## 📊 Key Achievements
 
-- Resolved **247+ ICT support tickets weekly** in a busy enterprise environment.
-- Reduced average incident resolution time by **68%**.
-- Improved first-call resolution by **56%**.
-- Reduced support incidents by approximately **24%** through user training and improved ICT processes.
-- Automated password-reset processes, saving approximately **42 support hours every month**.
-- Reduced Active Directory account-lockout incidents by **25%**.
-- Improved Microsoft 365 security controls and reduced phishing-related incidents by **87%**.
-- Trained **57+ staff members** on ICT systems and cybersecurity practices.
-- Supported and maintained **300+ ICT devices and technology assets**.
-- Improved infrastructure availability through proactive monitoring, preventive maintenance and structured troubleshooting.
+| Achievement                     |                           Result |
+| ------------------------------- | -------------------------------: |
+| ICT support operations          |          **247+ tickets weekly** |
+| Incident resolution improvement |                **68% reduction** |
+| First-call resolution           |              **56% improvement** |
+| Staff ICT training              |        **57+ employees trained** |
+| Devices/assets supported        |                         **300+** |
+| Support incidents               |                **24% reduction** |
+| Password reset automation       | **42 support hours saved/month** |
+| AD account lockouts             |                **25% reduction** |
+| Phishing-related incidents      |                **87% reduction** |
 
 ---
 
 # 📂 Featured Projects
 
-## Active Directory Administration & Automation
+These projects demonstrate my practical experience in enterprise infrastructure administration.
 
-Enterprise Active Directory administration project covering:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- User and account administration
-- Group Policy
-- DNS and DHCP
-- Account lockout troubleshooting
-- Password management
-- Security policies
-- Password-reset automation
+### 🏢 Active Directory Administration
 
-**Outcome:** Reduced account lockouts and saved significant helpdesk support time.
+Enterprise identity and access management, Group Policy, DNS/DHCP, account administration, troubleshooting and automation.
 
----
+➡️ **[View Project](./Projects/Active-Directory-Administration/)**
 
-## Network Infrastructure Administration
+</td>
 
-Network administration and troubleshooting covering:
+<td width="50%" valign="top">
 
-- LAN/WAN infrastructure
-- VLAN configuration
-- Routing and switching
-- Wireless networks
-- VPN connectivity
-- Firewall administration
-- Network troubleshooting
-- Infrastructure monitoring
+### 🌐 Network Infrastructure
 
----
+LAN/WAN, VLANs, routing, switching, VPN, firewalls, wireless networking, monitoring and troubleshooting.
 
-## Microsoft 365 Administration
+➡️ **[View Project](./Projects/Network-Infrastructure-Administration/)**
 
-Microsoft 365 administration covering:
+</td>
+</tr>
 
-- User administration
-- Exchange Online
-- Mailbox management
-- Shared resources
-- Security configuration
-- Phishing protection
-- User security awareness
+<tr>
+<td width="50%" valign="top">
 
----
+### ☁️ Microsoft 365 Administration
 
-## Windows & Linux Server Administration
+Microsoft 365, Exchange Online, Teams, SharePoint, OneDrive, Entra ID, licensing and user administration.
 
-Server administration covering:
+➡️ **[View Project](./Projects/Microsoft-365-Administration/)**
 
-- Windows Server
-- Linux servers
-- Active Directory
-- DNS
-- DHCP
-- File services
-- Server troubleshooting
-- Backup and recovery
+</td>
 
----
+<td width="50%" valign="top">
 
-## VMware Virtualization
+### 🖥️ Windows Server Administration
 
-Virtual infrastructure administration covering:
+Windows Server, Active Directory, DNS, DHCP, Group Policy, file/print services, security and maintenance.
 
-- Virtual machine deployment
-- VM configuration
-- Resource management
-- Server consolidation
-- Performance troubleshooting
-- Infrastructure optimization
+➡️ **[View Project](./Projects/Windows-Server-Administration/)**
 
----
+</td>
+</tr>
 
-## Cybersecurity & Endpoint Protection
+<tr>
+<td width="50%" valign="top">
 
-Security improvement initiatives covering:
+### ☁️ VMware & Virtualization
 
-- Endpoint protection
-- Patch management
-- Vulnerability mitigation
-- Access control
-- Security awareness
-- Phishing prevention
-- Security monitoring
+VMware ESXi, vSphere, virtual machines, virtual networking, storage, snapshots, monitoring and recovery.
+
+➡️ **[View Project](./Projects/VMware-Virtualization/)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔐 Cybersecurity
+
+Endpoint protection, vulnerability management, patching, access control, security awareness and incident response.
+
+🚧 **Project documentation coming soon**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## IT Service Management
+## 🎓 Education
 
-IT service delivery and support improvement covering:
+**Bachelor of Information & Communication Technology (BICT)**
+Gulu University — 2006–2010
 
-- Incident management
-- SLA monitoring
-- Ticket management
-- Root-cause troubleshooting
-- Preventive maintenance
-- Technical documentation
-- SOP development
+**Software Development — Full Stack**
+Microverse — 2022–2023
 
----
-
-# 📚 Education
-
-### Bachelor of Information and Communication Technology (BICT)
-
-**Gulu University — Uganda**  
-August 2006 – January 2010
-
-### Software Development — Full Stack
-
-**Microverse — USA**  
-March 2022 – February 2023
-
-### Cisco Networking Technician
-
-**Cisco Networking Academy**  
-June 2021 – August 2022
+**Cisco Networking Technician**
+Cisco Networking Academy — 2021–2022
 
 ---
 
-# 🎓 Professional Training & Certifications
+## 📜 Professional Training
 
-- Cisco Networking Technician
-- Cisco Networking Fundamentals & Troubleshooting
-- Microsoft 365 Administration
-- Windows Server Administration
-- VMware Virtualization Administration
-- Cybersecurity Fundamentals
-- Software Development — Microverse
-
----
-
-# 📖 Publication
-
-### Spider Wick Web Application
-
-**LAP Lambert Academic Publishing — May 2012**
-
-Author: **Alimony Godfrey**
-
-Research publication exploring web browser evolution, browser-server communication using HTTP, and modern web technologies.
+* Microsoft Windows Server Administration
+* Microsoft 365 Administration
+* VMware Virtualization
+* Cisco Networking
+* Network Security
+* Cybersecurity & Endpoint Protection
+* IT Service Management
+* Network Monitoring
+* Incident & SLA Management
 
 ---
 
-# 📊 Professional Focus
+## 📚 Publication
 
-I am interested in opportunities involving:
+### *Spider Wick Web Application*
 
-- IT Infrastructure Engineering
-- Systems Administration
-- Network Engineering
-- Cloud Infrastructure
-- Microsoft 365 Administration
-- Cybersecurity
-- IT Operations
-- Infrastructure Management
-- Technical Support Leadership
-- IT Service Management
+**LAP Lambert Academic Publishing — 2012**
+
+A software development project demonstrating practical application development and systems design.
 
 ---
 
-# 📫 Contact
+## 🎯 Professional Focus
 
-**Email:** alimonyg@gmail.com
+I am particularly interested in roles involving:
 
-**Phone:** +256 783 608030 / +256 752 596371
-
-**Location:** Uganda
+* 🏢 IT Infrastructure
+* 🖥️ Systems Administration
+* 🌐 Network Engineering
+* ☁️ Cloud Infrastructure
+* 🔐 Cybersecurity
+* 🛡️ Endpoint Security
+* ⚙️ IT Operations
+* 📊 Infrastructure Monitoring
+* 📋 IT Service Management
+* 🚀 Infrastructure Automation
 
 ---
 
-## 🔗 Portfolio
+## 📈 GitHub Activity
 
-This repository contains selected technical projects, infrastructure documentation, troubleshooting guides, automation examples and professional IT knowledge developed through practical enterprise ICT experience.
+<div align="center">
 
-> **Note:** Technical examples in this portfolio are presented for professional and educational purposes. Confidential organizational information, credentials and sensitive infrastructure details are excluded.
+<img src="https://github-readme-stats.vercel.app/api?username=Godfrey-Alimony&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godfrey-Alimony&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Godfrey-Alimony&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+## 🧠 What I Bring
+
+```text
+Infrastructure Administration     ████████████████████  Expert
+Systems Administration            ████████████████████  Expert
+Network Administration            ███████████████████░  Advanced
+Microsoft 365                     ███████████████████░  Advanced
+Virtualization                    ██████████████████░░  Advanced
+Cybersecurity                     ██████████████████░░  Advanced
+IT Operations                     ████████████████████  Expert
+Technical Support                 ████████████████████  Expert
+```
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+**Alimony Godfrey**
+ICT Infrastructure & Systems Administrator
+
+📍 Uganda
+📧 **[alimonyg@gmail.com](mailto:alimonyg@gmail.com)**
+📱 **+256 783 608030** | **+256 752 596371**
+
+<br/>
+
+<a href="https://github.com/Godfrey-Alimony">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my portfolio!
+
+<img src="https://komarev.com/ghpvc/?username=Godfrey-Alimony&label=Portfolio%20Views&color=0e75b6&style=flat" alt="Portfolio views"/>
+
+<br/><br/>
+
+**Infrastructure • Systems • Networks • Cloud • Cybersecurity**
+
+</div>
+
+---
+
+> **Confidentiality Notice:**
+> Project documentation is generalized and contains no confidential company information, credentials, internal IP addresses, passwords, proprietary configurations or sensitive business data.
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
+
+</div>
