@@ -1,14 +1,14 @@
-# Active Directory Administration & Automation
+# 🔐 Active Directory Administration & Automation
 
-## Project Overview
+## 📌 Project Overview
 
-This project demonstrates practical experience in **Microsoft Active Directory administration, identity management, security, troubleshooting, and automation** within an enterprise ICT environment.
+This project demonstrates practical experience in **Microsoft Active Directory administration, identity and access management, security, troubleshooting, and automation** within an enterprise ICT environment.
 
-The focus is on improving account administration, reducing recurring authentication issues, strengthening security controls, and automating repetitive support tasks.
+The focus is on improving account administration, reducing recurring authentication issues, strengthening security controls, and automating repetitive support activities.
 
 ---
 
-## Objectives
+## 🎯 Objectives
 
 The main objectives of this project were to:
 
@@ -23,7 +23,7 @@ The main objectives of this project were to:
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 | Technology       | Purpose                                  |
 | ---------------- | ---------------------------------------- |
@@ -37,7 +37,7 @@ The main objectives of this project were to:
 
 ---
 
-## Key Areas of Administration
+## 👤 Key Areas of Administration
 
 ### Active Directory
 
@@ -51,6 +51,7 @@ Performed administration and support activities including:
 * Access permissions
 * Account-lockout investigation
 * User access troubleshooting
+* User onboarding and offboarding
 
 ### Group Policy
 
@@ -76,7 +77,7 @@ Supported core Windows network services including:
 
 ---
 
-## Account Lockout Troubleshooting
+## 🔎 Account Lockout Troubleshooting
 
 A structured troubleshooting process was used to investigate recurring account-lockout incidents.
 
@@ -88,18 +89,18 @@ Typical investigation steps included:
 4. Identify the source of failed authentication.
 5. Check workstations and connected devices.
 6. Check mapped drives and stored credentials.
-7. Review scheduled tasks and services.
+7. Review scheduled tasks and services where applicable.
 8. Correct outdated or incorrect credentials.
 9. Test user authentication.
 10. Document the resolution.
 
-### Result
+### 📊 Result
 
 The improved troubleshooting and administration process contributed to an approximately **25% reduction in Active Directory account-lockout incidents**.
 
 ---
 
-## Password Reset Automation
+## 🤖 Password Reset Automation
 
 Repetitive password-reset activities were improved through automation and standardized administrative procedures.
 
@@ -111,53 +112,53 @@ The automation approach helped to:
 * Reduce helpdesk workload.
 * Improve user service delivery.
 
-### Result
+### 📊 Result
 
 The automation saved approximately **42 support hours per month**.
 
 ---
 
-## Security Improvements
+## 🔐 Security Improvements
 
 Security improvements included:
 
-* Strong password policies.
-* Account-lockout controls.
-* Controlled access permissions.
-* User account lifecycle management.
-* Group membership management.
-* Security policy enforcement.
-* Endpoint security coordination.
-* User cybersecurity awareness.
+* Strong password policies
+* Account-lockout controls
+* Controlled access permissions
+* User account lifecycle management
+* Group membership management
+* Security policy enforcement
+* Endpoint security coordination
+* User cybersecurity awareness
 
 The overall approach was based on improving **identity security, access control, and operational consistency**.
 
 ---
 
-## Troubleshooting Workflow
+## 🔄 Troubleshooting Workflow
 
 ```text
 User reports authentication problem
-              |
-              v
+              │
+              ▼
 Identify affected account/device
-              |
-              v
+              │
+              ▼
 Check Active Directory account status
-              |
-              v
+              │
+              ▼
 Review authentication events
-              |
-              v
+              │
+              ▼
 Identify source of failed authentication
-              |
-              v
+              │
+              ▼
 Correct credentials/configuration
-              |
-              v
+              │
+              ▼
 Test authentication
-              |
-              v
+              │
+              ▼
 Document resolution
 ```
 
@@ -165,22 +166,22 @@ This approach helps ensure that recurring authentication problems are investigat
 
 ---
 
-## Operational Improvements
+## 📈 Operational Improvements
 
 The project contributed to improvements in:
 
-* Active Directory administration.
-* Identity and access management.
-* Authentication troubleshooting.
-* Helpdesk efficiency.
-* Security policy enforcement.
-* User support.
-* Technical documentation.
-* Infrastructure reliability.
+* Active Directory administration
+* Identity and access management
+* Authentication troubleshooting
+* Helpdesk efficiency
+* Security policy enforcement
+* User support
+* Technical documentation
+* Infrastructure reliability
 
 ---
 
-## Key Results
+## 📊 Key Results
 
 | Improvement                                    |                Result |
 | ---------------------------------------------- | --------------------: |
@@ -193,7 +194,7 @@ The project contributed to improvements in:
 
 ---
 
-## Skills Demonstrated
+## 💼 Skills Demonstrated
 
 * Active Directory Administration
 * Windows Server Administration
@@ -206,20 +207,26 @@ The project contributed to improvements in:
 * IT Service Management
 * Technical Documentation
 * Security Operations
+* Incident Management
+* User & Endpoint Support
 
 ---
 
-## Professional Application
+## 🚀 Professional Application
 
-The experience demonstrated through this project supports enterprise environments requiring reliable identity infrastructure, secure user access, efficient troubleshooting, and automated IT service delivery.
+The experience demonstrated through this project supports enterprise environments requiring **reliable identity infrastructure, secure user access, efficient troubleshooting, and automated IT service delivery**.
 
-It demonstrates the ability to combine **systems administration, security, troubleshooting, automation, and service management** to improve ICT operations.
+It demonstrates the ability to combine:
+
+**Systems Administration + Security + Troubleshooting + Automation + Service Management**
+
+to improve the reliability, efficiency, and security of ICT operations.
 
 ---
 
-## Security & Confidentiality
+## 🔒 Security & Confidentiality
 
-This portfolio project is a generalized representation of professional technical experience.
+This portfolio project is a **generalized representation of professional technical experience**.
 
 No passwords, credentials, internal IP addresses, confidential configurations, proprietary scripts, or sensitive organizational information are included.
 
@@ -227,9 +234,36 @@ All examples are presented for professional portfolio and educational purposes.
 
 ---
 
-## Portfolio Status
+## 📋 Portfolio Status
 
-**Project Type:** Enterprise ICT Infrastructure
-**Focus:** Active Directory, Identity Management & Automation
-**Primary Platform:** Microsoft Windows Server
-**Skills Level:** Intermediate to Advanced
+| Category             | Details                                                  |
+| -------------------- | -------------------------------------------------------- |
+| **Project Type**     | Enterprise ICT Infrastructure                            |
+| **Focus**            | Active Directory, Identity Management & Automation       |
+| **Primary Platform** | Microsoft Windows Server                                 |
+| **Experience Level** | Senior / Advanced                                        |
+| **Key Technologies** | Active Directory, Group Policy, DNS, DHCP, PowerShell    |
+| **Key Outcomes**     | 25% fewer account lockouts; 42 support hours saved/month |
+
+---
+
+## 🔗 Portfolio Navigation
+
+**← [Back to IT Infrastructure Portfolio](../../)**
+
+### Other Projects
+
+* [Network Infrastructure Administration](../Network-Infrastructure-Administration/)
+* [Microsoft 365 Administration](../Microsoft-365-Administration/)
+* [Windows Server Administration](../Windows-Server-Administration/)
+* [VMware & Virtualization](../VMware-Virtualization/)
+
+---
+
+<div align="center">
+
+### 🔐 Identity • Security • Reliability • Automation
+
+**IT Infrastructure | Systems Administration | Network Engineering**
+
+</div>
