@@ -1,16 +1,18 @@
-# Network Infrastructure Administration
+# 🌐 Network Infrastructure Administration
 
-## Project Overview
+## 📌 Project Overview
 
-This project demonstrates practical experience in administering, maintaining, troubleshooting, and securing enterprise network infrastructure.
+This project demonstrates practical experience in **administering, maintaining, troubleshooting, monitoring, and securing enterprise network infrastructure**.
 
-The work covers LAN/WAN connectivity, routing and switching, VLANs, wireless networks, VPN connectivity, firewall administration, DNS/DHCP services, network monitoring, troubleshooting, preventive maintenance, and network security.
+The work covers LAN/WAN connectivity, routing and switching, VLANs, wireless networking, VPN connectivity, firewall administration, DNS/DHCP services, network monitoring, preventive maintenance, incident response, and technical documentation.
 
 The project is presented as a generalized professional case study without exposing confidential organizational infrastructure information.
 
 ---
 
-## Objectives
+## 🎯 Objectives
+
+The main objectives of this project were to:
 
 * Maintain reliable enterprise network connectivity.
 * Configure and support LAN and WAN infrastructure.
@@ -25,7 +27,7 @@ The project is presented as a generalized professional case study without exposi
 
 ---
 
-## Technologies & Infrastructure
+## 🛠️ Technologies & Infrastructure
 
 ### Network Technologies
 
@@ -50,20 +52,20 @@ The project is presented as a generalized professional case study without exposi
 * Internet connectivity equipment
 * Network monitoring systems
 
-### Monitoring & Management
+### Monitoring & Diagnostic Tools
 
 * PRTG
 * Nagios
 * SolarWinds
-* Network diagnostic tools
 * Ping
 * Traceroute
 * IP configuration utilities
+* Network diagnostic tools
 * Connectivity testing tools
 
 ---
 
-## LAN & WAN Administration
+## 🌐 LAN & WAN Administration
 
 Responsibilities included supporting and maintaining enterprise LAN and WAN connectivity.
 
@@ -78,9 +80,16 @@ Key activities included:
 * Monitoring network availability.
 * Escalating ISP and carrier-related issues when required.
 
+### Key Outcomes
+
+* Improved network availability.
+* Faster identification of connectivity problems.
+* Reduced recurring network-related incidents.
+* Improved user connectivity and service reliability.
+
 ---
 
-## VLAN Administration
+## 🔀 VLAN Administration
 
 VLANs were used to logically separate network traffic and improve network organization and security.
 
@@ -104,7 +113,7 @@ Typical activities included:
 
 ---
 
-## Routing & Switching
+## 🔀 Routing & Switching
 
 Network routing and switching support included:
 
@@ -134,9 +143,9 @@ Network routing and switching support included:
 
 ---
 
-## DNS & DHCP Support
+## 🧭 DNS & DHCP Support
 
-Network services such as DNS and DHCP were supported as part of enterprise infrastructure operations.
+DNS and DHCP were supported as part of enterprise network infrastructure operations.
 
 ### DHCP
 
@@ -160,7 +169,7 @@ Activities included:
 
 ---
 
-## VPN & Remote Connectivity
+## 🔐 VPN & Remote Connectivity
 
 VPN connectivity was supported to provide secure remote access to authorized users and systems.
 
@@ -171,11 +180,11 @@ Activities included:
 * Checking authentication-related issues.
 * Testing network reachability after VPN connection.
 * Investigating routing issues affecting remote users.
-* Supporting secure remote access requirements.
+* Supporting secure remote-access requirements.
 
 ---
 
-## Firewall Administration
+## 🛡️ Firewall Administration
 
 Firewall administration activities included supporting network security controls and connectivity requirements.
 
@@ -189,18 +198,18 @@ Typical tasks included:
 * Reviewing network security requirements.
 * Escalating complex firewall changes through appropriate change-management procedures.
 
-Security principles followed included:
+### Security Principles
 
 * Least privilege.
 * Controlled network access.
-* Segmentation.
+* Network segmentation.
 * Secure remote access.
 * Documented changes.
 * Regular review of access requirements.
 
 ---
 
-## Wireless Network Support
+## 📶 Wireless Network Support
 
 Wireless infrastructure support included:
 
@@ -214,7 +223,7 @@ Wireless infrastructure support included:
 
 ---
 
-## Network Monitoring
+## 📊 Network Monitoring
 
 Network monitoring was used to identify infrastructure issues before they significantly affected users or business services.
 
@@ -229,23 +238,21 @@ Monitoring activities included:
 * Alert investigation.
 * Trend analysis.
 
-Tools used included:
+### Monitoring Platforms
 
-* PRTG
-* Nagios
-* SolarWinds
+* **PRTG**
+* **Nagios**
+* **SolarWinds**
 
-Monitoring helped improve proactive maintenance and reduce unexpected network interruptions.
+Monitoring helped improve proactive maintenance, infrastructure visibility, and early incident detection.
 
 ---
 
-## Network Troubleshooting
+## 🔎 Network Troubleshooting
 
 A structured troubleshooting methodology was used when investigating network incidents.
 
-### Layered Troubleshooting
-
-#### Layer 1 — Physical
+### Layer 1 — Physical
 
 * Power
 * Network cables
@@ -253,7 +260,7 @@ A structured troubleshooting methodology was used when investigating network inc
 * Wireless signal
 * Network interface status
 
-#### Layer 2 — Data Link
+### Layer 2 — Data Link
 
 * VLAN assignment
 * MAC address learning
@@ -261,7 +268,7 @@ A structured troubleshooting methodology was used when investigating network inc
 * Port configuration
 * Broadcast issues
 
-#### Layer 3 — Network
+### Layer 3 — Network
 
 * IP addressing
 * Subnet configuration
@@ -269,7 +276,7 @@ A structured troubleshooting methodology was used when investigating network inc
 * Routing
 * Packet loss
 
-#### Layer 4+ — Services
+### Layer 4+ — Services
 
 * TCP/UDP connectivity
 * DNS
@@ -279,7 +286,7 @@ A structured troubleshooting methodology was used when investigating network inc
 
 ---
 
-## Common Network Issues Investigated
+## ⚠️ Common Network Issues Investigated
 
 Examples of issues handled include:
 
@@ -299,7 +306,7 @@ Examples of issues handled include:
 
 ---
 
-## Preventive Maintenance
+## 🔧 Preventive Maintenance
 
 Preventive network maintenance included:
 
@@ -316,7 +323,7 @@ Preventive network maintenance included:
 
 ---
 
-## Network Security
+## 🔒 Network Security
 
 Network security practices included:
 
@@ -325,7 +332,7 @@ Network security practices included:
 * Firewall enforcement.
 * Secure VPN access.
 * Wireless security.
-* Endpoint protection.
+* Endpoint protection coordination.
 * Patch management.
 * Monitoring suspicious network activity.
 * Restricting unnecessary network services.
@@ -334,26 +341,49 @@ Network security practices included:
 
 ---
 
-## Incident Response Workflow
+## 🚨 Incident Response Workflow
 
 When a network incident occurred, the following process was followed:
 
-1. Receive and classify the incident.
-2. Identify affected users or systems.
-3. Determine the scope of the problem.
-4. Perform initial connectivity tests.
-5. Check monitoring systems.
-6. Investigate the physical and logical network.
-7. Identify the likely root cause.
-8. Apply corrective action.
-9. Test connectivity and service restoration.
-10. Document the resolution.
-11. Monitor the environment after restoration.
-12. Escalate unresolved issues when required.
+```text
+Network incident reported
+          │
+          ▼
+Identify affected users/systems
+          │
+          ▼
+Determine scope of the incident
+          │
+          ▼
+Perform initial connectivity tests
+          │
+          ▼
+Check monitoring systems
+          │
+          ▼
+Investigate physical and logical network
+          │
+          ▼
+Identify likely root cause
+          │
+          ▼
+Apply corrective action
+          │
+          ▼
+Test service restoration
+          │
+          ▼
+Document resolution
+          │
+          ▼
+Monitor after restoration
+```
+
+Unresolved or complex issues were escalated through the appropriate support and change-management processes.
 
 ---
 
-## Documentation
+## 📚 Documentation
 
 Technical documentation was maintained to improve operational consistency and troubleshooting efficiency.
 
@@ -372,7 +402,7 @@ Documentation areas included:
 
 ---
 
-## Operational Improvements
+## 📈 Operational Improvements
 
 Network administration activities contributed to:
 
@@ -387,22 +417,22 @@ Network administration activities contributed to:
 
 ---
 
-## Key Results
+## 📊 Key Results
 
-The network administration work contributed to:
-
-* Improved network reliability and availability.
-* Faster identification of connectivity problems.
-* Reduced network-related service interruptions.
-* Improved troubleshooting efficiency.
-* Better network segmentation.
-* Improved visibility through infrastructure monitoring.
-* Stronger network security practices.
-* Improved technical documentation and operational procedures.
+| Improvement                  | Result                                 |
+| ---------------------------- | -------------------------------------- |
+| Network availability         | **Improved**                           |
+| Connectivity troubleshooting | **Faster and more structured**         |
+| Network monitoring           | **Improved infrastructure visibility** |
+| Network segmentation         | **Improved security and organization** |
+| Preventive maintenance       | **More proactive**                     |
+| Incident response            | **More consistent**                    |
+| Technical documentation      | **Improved**                           |
+| Network security             | **Strengthened**                       |
 
 ---
 
-## Skills Demonstrated
+## 💼 Skills Demonstrated
 
 This project demonstrates practical experience in:
 
@@ -426,9 +456,9 @@ This project demonstrates practical experience in:
 
 ---
 
-## Professional Application
+## 🚀 Professional Application
 
-The knowledge and experience demonstrated in this project can be applied to:
+The knowledge and experience demonstrated through this project can be applied to:
 
 * Enterprise network environments.
 * Corporate IT infrastructure.
@@ -439,9 +469,11 @@ The knowledge and experience demonstrated in this project can be applied to:
 * Network operations teams.
 * IT infrastructure engineering roles.
 
+The project demonstrates the ability to combine **network engineering, infrastructure support, troubleshooting, security, monitoring, and service management** to maintain reliable enterprise connectivity.
+
 ---
 
-## Security & Confidentiality
+## 🔒 Security & Confidentiality
 
 This portfolio project is intentionally generalized.
 
@@ -450,7 +482,7 @@ It does not contain:
 * Passwords.
 * Authentication credentials.
 * Internal IP addresses.
-* Firewall rules from production environments.
+* Production firewall rules.
 * Network device credentials.
 * VPN configuration secrets.
 * Proprietary network diagrams.
@@ -460,10 +492,37 @@ The examples are presented for professional demonstration and educational purpos
 
 ---
 
-## Portfolio Status
+## 📋 Portfolio Status
 
-**Project:** Network Infrastructure Administration
-**Category:** Network Engineering / Infrastructure
-**Status:** Completed Case Study
-**Environment:** Enterprise IT Infrastructure
-**Focus:** Network Administration, Troubleshooting, Security & Monitoring
+| Category             | Details                                                                     |
+| -------------------- | --------------------------------------------------------------------------- |
+| **Project**          | Network Infrastructure Administration                                       |
+| **Category**         | Network Engineering / Infrastructure                                        |
+| **Status**           | Completed Case Study                                                        |
+| **Environment**      | Enterprise IT Infrastructure                                                |
+| **Focus**            | Network Administration, Troubleshooting, Security & Monitoring              |
+| **Experience Level** | Senior / Advanced                                                           |
+| **Key Technologies** | TCP/IP, VLANs, Routing, Switching, VPN, Firewalls, PRTG, Nagios, SolarWinds |
+
+---
+
+## 🔗 Portfolio Navigation
+
+**← [Back to IT Infrastructure Portfolio](../../)**
+
+### Other Projects
+
+* [Active Directory Administration](../Active-Directory-Administration/)
+* [Microsoft 365 Administration](../Microsoft-365-Administration/)
+* [Windows Server Administration](../Windows-Server-Administration/)
+* [VMware & Virtualization](../VMware-Virtualization/)
+
+---
+
+<div align="center">
+
+### 🌐 Connectivity • Security • Reliability • Performance
+
+**IT Infrastructure | Network Engineering | Systems Administration**
+
+</div>
